@@ -25,15 +25,15 @@
 git clone https://github.com/your-username/newsapp.git
 
 - Navigate to the project directory:
-cd newsapp
+``` cd newsapp ```
 
 - Install dependencies:
-npm install
+``` npm install ```
 
 - Add your NewsAPI key to the config or .env file
 
 - Start the development server:
-npm start
+``` npm start ```
 
 ### 📌 Note
 - You must obtain an API key from https://newsapi.org to use this app.
