@@ -1,6 +1,6 @@
 # NewsApp
 # 📰 NewsApp - React JS News Application
-- A responsive news application built with React JS, Bootstrap, and Infinite Scroll, which fetches the latest news using the NewsAPI.
+- A responsive and modern news application built with React JS, Bootstrap, and Infinite Scroll, which fetches the latest news using the NewsAPI. This app also uses React Router for seamless page navigation and a Loading Bar to show progress indicators during content loading.
 
 ## 🔧 Tech Stack
 - React JS – For building the user interface
@@ -9,12 +9,20 @@
 
 - react-infinite-scroll-component – To implement infinite scrolling
 
+- react-router-dom – For client-side routing and navigation
+
+- react-top-loading-bar – To display a loading progress bar
+
 - NewsAPI – To fetch real-time news data via an API key
 
 ## 🚀 Features
 - Browse news across various categories (e.g., business, entertainment, health, technology)
 
 - Infinite scrolling to load articles continuously as you scroll
+
+- Client-side routing for category-based navigation using React Router
+
+- Visual loading indicator using a top progress bar
 
 - Responsive and mobile-friendly design
 
