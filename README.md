@@ -31,6 +31,7 @@ git clone https://github.com/your-username/newsapp.git
 ``` npm install ```
 
 - Add your NewsAPI key to the config or .env file
+- As it is a REACT BASED WEB APPLICATION you have to use ```REACT_APP_KEYNAME``` to store key and access it in react app
 
 - Start the development server:
 ``` npm start ```
