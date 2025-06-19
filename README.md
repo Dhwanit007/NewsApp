@@ -40,3 +40,6 @@ git clone https://github.com/your-username/newsapp.git
 - You must obtain an API key from https://newsapi.org to use this app.
 
 - Replace the placeholder key in the code with your own for proper functionality.
+
+# ScreenShot 
+![image](https://github.com/user-attachments/assets/3d3b220b-db94-4a73-b9bc-d11b65628d72)
